@@ -108,3 +108,4 @@ ssl/
 media
 staticfiles/
 *__pycache__/
+*pytest_cache/
